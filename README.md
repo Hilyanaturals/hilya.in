@@ -1,2 +1,70 @@
-# hilya.in
-We are crafting something beautiful for your natural care routine — inspired by purity, tradition, and nature. Hilya Naturals will be launching soon with premium grooming and wellness products. Stay connected.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Hilya Naturals — Premium Grooming & Wellness Inspired by Nature, Purity & Tradition. Crafted in Kashmir.">
+  <title>Hilya Naturals - Coming Soon</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f5f5f2;
+      color: #2e4733;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
+    img {
+      max-width: 220px;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+    h2 {
+      font-weight: 400;
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin-bottom: 30px;
+      line-height: 1.6;
+    }
+    .social a {
+      margin: 0 10px;
+      color: #2e4733;
+      font-size: 1.6rem;
+      text-decoration: none;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+
+  <img src="Hilya-logo-vector.png" alt="Hilya Naturals Logo">
+
+  <h1>Crafted in Kashmir</h1>
+  <h2>In the heart of the valley — we are creating something natural, pure & timeless for your care ritual.  
+  Grooming & wellness inspired by nature, purity, and tradition.</h2>
+
+  <h3>Follow us for exclusive founder offers:</h3>
+
+  <div class="social">
+    <a href="https://www.instagram.com/hilya.naturals/" target="_blank">Instagram</a> |
+    <a href="https://x.com/hilyanaturals" target="_blank">X (Twitter)</a>
+  </div>
+
+  <div class="footer">
+    Made with love in Kashmir — Hilya Naturals © 2025
+  </div>
+
+</body>
+</html>
