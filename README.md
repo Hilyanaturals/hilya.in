@@ -20,7 +20,7 @@
       padding: 20px;
     }
     img {
-      max-width: 220px;
+      max-width: 100px;
       margin-bottom: 20px;
     }
     h1 {
@@ -51,11 +51,11 @@
 
   <img src="Hilya-logo-vector.png" alt="Hilya Naturals Logo">
 
-  <h1>Crafted in Kashmir</h1>
-  <h2>In the heart of the valley — we are creating something natural, pure & timeless for your care ritual.  
-  Grooming & wellness inspired by nature, purity, and tradition.</h2>
+  <h1>We Are Creating Something Beautiful — Naturally.</h1>
+  <h2>Something beautiful is coming soon — for those who value purity & nature."
+Crafted with love for your grooming & wellness journey.</h2>
 
-  <h3>Follow us for exclusive founder offers:</h3>
+  <h3>Follow us for coming exclusive founder offers:</h3>
 
   <div class="social">
     <a href="https://www.instagram.com/hilya.naturals/" target="_blank">Instagram</a> |
@@ -63,7 +63,7 @@
   </div>
 
   <div class="footer">
-    Made with love in Kashmir — Hilya Naturals © 2025
+    Making with love in Kashmir — Hilya Naturals © 2025
   </div>
 
 </body>
